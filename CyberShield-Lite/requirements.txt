@@ -1,0 +1,8 @@
+# Dependencies for Network-Security-Toolkit
+# To install: pip install -r requirements.txt
+
+# Add dependencies here as needed
+colorama
+# requests
+
+# scapy
